@@ -14,12 +14,12 @@
 
    1. **form-data**：表示http请求中的multipart/form-data方式，会将表单的数据处理为一条消息，用分割符隔开，可以上传多个文件。
 
-      ![formdata](/Users/macos/Desktop/formdata.png)
+      ![formdata](https://raw.githubusercontent.com/shiyuan17/postman-apiwiki/master/images/formdata.png)
 
    2. **x-www-form-urlencoded**:会将请求的内容转换为键值对。
          如：phone=13800138000&password=654321
 
-      ![x-www-form-urlencoded](/Users/macos/Desktop/x-www-form-urlencoded.png)
+      ![x-www-form-urlencoded](https://raw.githubusercontent.com/shiyuan17/postman-apiwiki/master/images/x-www-form-urlencoded.png)
 
    3.  **raw**:可以上传任意格式的**文本**。如：json、text、xml、html等。
 
