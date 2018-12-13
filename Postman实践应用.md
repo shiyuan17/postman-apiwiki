@@ -2,7 +2,7 @@
 
 1.初始项目，规划项目模块。postman collections。以Akit项目为例：
 
-![image-20181210150524881](/Users/macos/Documents/Work/doc/marckdown/postman步步为营/images/image-20181210150524881.png)
+![image-20181210150524881](https://raw.githubusercontent.com/shiyuan17/postman-apiwiki/master/images/image-20181210150524881.png)
 
 2.一般项目都会分为前台、后台、手机端三个模块。然后每个模块再细分功能区域。
 
@@ -14,11 +14,11 @@
 
 **Globals:**全局变量，一般是通用的参数，如token等的设置。
 
-![WX20181210-153521](/Users/macos/Documents/Work/doc/marckdown/postman步步为营/images/WX20181210-153521.png)
+![WX20181210-153521](https://raw.githubusercontent.com/shiyuan17/postman-apiwiki/master/images/WX20181210-153521.png)
 
 点击add定义环境变量。
 
-![image-20181210155738550](/Users/macos/Documents/Work/doc/marckdown/postman步步为营/images/WX20181210-155510.png)
+![image-20181210155738550](https://raw.githubusercontent.com/shiyuan17/postman-apiwiki/master/images/WX20181210-155510.png)
 
 4.选择环境，通过{{}}引用环境变量。当鼠标悬浮上去的时候会有变量的详细信息显示。
 
@@ -40,5 +40,5 @@ phone    |string     |手机号码
 
 ![image-20181210160937553](/Users/macos/Library/Application Support/typora-user-images/image-20181210160937553.png)
 
-![image-20181210162344963](/Users/macos/Documents/Work/doc/marckdown/postman步步为营/images/image-20181210162344963.png)
+![image-20181210162344963](https://raw.githubusercontent.com/shiyuan17/postman-apiwiki/master/images/image-20181210162344963.png)
 

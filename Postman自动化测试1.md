@@ -77,7 +77,7 @@ pm.environment.set("token", token);
 
 
 
-![WX20181212-120125](/Users/macos/Documents/Work/doc/marckdown/postman步步为营/images/WX20181212-120125.png)
+![WX20181212-120125](https://raw.githubusercontent.com/shiyuan17/postman-apiwiki/master/images/WX20181212-120125.png)
 
 
 
@@ -128,11 +128,11 @@ str:字符串
 
 1.使用步骤一：先在Pre-request Script里添加前置脚本
 
-![WX20181212-143725](/Users/macos/Documents/Work/doc/marckdown/postman步步为营/images/WX20181212-143725.png)
+![WX20181212-143725](https://raw.githubusercontent.com/shiyuan17/postman-apiwiki/master/images/WX20181212-143725.png)
 
 2.使用步骤二：在参数中使用{{}}引用变量
 
-![WX20181212-143621](/Users/macos/Documents/Work/doc/marckdown/postman步步为营/images/WX20181212-143621.png)
+![WX20181212-143621](https://raw.githubusercontent.com/shiyuan17/postman-apiwiki/master/images/WX20181212-143621.png)
 
 
 
@@ -140,6 +140,6 @@ str:字符串
 
 ![image-20181212140524539](/Users/macos/Library/Application Support/typora-user-images/image-20181212140524539.png)
 
-![WX20181212-140613](/Users/macos/Documents/Work/doc/marckdown/postman步步为营/images/WX20181212-140613.png)
+![WX20181212-140613](https://raw.githubusercontent.com/shiyuan17/postman-apiwiki/master/images/WX20181212-140613.png)
 
 在上图我们可以选择不同的模块进行测试，也可以测试全部的接口。

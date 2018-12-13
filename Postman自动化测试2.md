@@ -4,9 +4,9 @@
 
 前置脚本和测试脚本是可以复用的，每一个接口都写同一样的测试用例，维护起来不方便，postman可以在集合中编写通用的脚本。如下：
 
-![WX20181212-141346](/Users/macos/Documents/Work/doc/marckdown/postman步步为营/images/WX20181212-141346.png)
+![WX20181212-141346](https://raw.githubusercontent.com/shiyuan17/postman-apiwiki/master/images/WX20181212-141346.png)
 
-![WX20181212-141420](/Users/macos/Documents/Work/doc/marckdown/postman步步为营/images/WX20181212-141420.png)
+![WX20181212-141420](https://raw.githubusercontent.com/shiyuan17/postman-apiwiki/master/images/WX20181212-141420.png)
 
 ```javascript
 pm.test('Status code is 200', () => {

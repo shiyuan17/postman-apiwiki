@@ -1,6 +1,6 @@
 ### Postman基础认识
 
-![postman基本认识](./images/postman基本认识.png)
+![postman基本认识](https://raw.githubusercontent.com/shiyuan17/postman-apiwiki/master/images/postman基本认识.png)
 
 1. Collection集合：Api归类管理、集成文档、集合测试、导出、Mock等操作
 

@@ -8,7 +8,7 @@
 
 如登录成功后获取到如下信息：
 
-![WX20181211-163908](/Users/macos/Documents/Work/doc/marckdown/postman步步为营/images/WX20181211-163908.png)
+![WX20181211-163908](https://raw.githubusercontent.com/shiyuan17/postman-apiwiki/master/images/WX20181211-163908.png)
 
 **方法：**postman可以使用环境变量作为动态参数，postman在接口请求完成后会执行Tests测试。我们可以在Tests测试中动态添加环境变量。示例如下：
 
@@ -24,13 +24,13 @@ pm.environment.set("token", token);
 
 ```
 
-![WX20181211-165113](/Users/macos/Documents/Work/doc/marckdown/postman步步为营/images/WX20181211-165113.png)
+![WX20181211-165113](https://raw.githubusercontent.com/shiyuan17/postman-apiwiki/master/images/WX20181211-165113.png)
 
 点击运行，运行成功后环境变量中就会多出token这个参数。后续使用{{token}}进行引用作为参数即可。   
 
 如：
 
-![WX20181211-165441](/Users/macos/Documents/Work/doc/marckdown/postman步步为营/images/WX20181211-165441.png)
+![WX20181211-165441](https://raw.githubusercontent.com/shiyuan17/postman-apiwiki/master/images/WX20181211-165441.png)
 
 ->
 
