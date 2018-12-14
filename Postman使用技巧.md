@@ -18,7 +18,7 @@
 
 4.在网页上浏览操作就可以将请求捕获到History列表中了。方便对接口进行测试与记录。
 
-![postman gif](https://raw.githubusercontent.com/shiyuan17/postman-apiwiki/master/images/postman gif.gif)
+![postman gif](https://raw.githubusercontent.com/shiyuan17/postman-apiwiki/master/images/postman-gif.gif)
 
 
 

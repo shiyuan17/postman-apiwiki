@@ -45,3 +45,5 @@ newman run mycollection.json -n 10
 newman run mycollection.json -e mycollection-environment.json
 ```
 
+-r指定生成的测试报告类型，可以为html或者json。需要安装npm install newman-reporter-teamcity
+
