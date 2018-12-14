@@ -10,3 +10,4 @@
 *   [Postman自动化测试2](https://github.com/shiyuan17/postman-apiwiki/blob/master/Postman%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%952.md)
 *   [Postman常用脚本](https://github.com/shiyuan17/postman-apiwiki/blob/master/Postman-%E5%B8%B8%E7%94%A8%E8%84%9A%E6%9C%AC.md)
 
+![apidesign](/Users/macos/Documents/Work/git/postman-apiwiki/images/apidesign.png)
