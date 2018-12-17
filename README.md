@@ -16,6 +16,6 @@
 
 * [Postman常用脚本](https://github.com/shiyuan17/postman-apiwiki/blob/master/Postman-%E5%B8%B8%E7%94%A8%E8%84%9A%E6%9C%AC.md)
 
-  ![接口场景](https://raw.githubusercontent.com/shiyuan17/postman-apiwiki/master/images/api-ref.png)
+  ![接口场景](https://raw.githubusercontent.com/shiyuan17/postman-apiwiki/master/images/api-ref.jpg)
 
 ![apidesign](https://raw.githubusercontent.com/shiyuan17/postman-apiwiki/master/images/apidesign.png)
