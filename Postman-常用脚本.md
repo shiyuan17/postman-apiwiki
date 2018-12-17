@@ -238,6 +238,7 @@ function getEmail(){
     var emails = new Array("163.com","qq.com","gmail.com","21cn.com");
     var tmp = getRandomNum(0,emails.length-1);
     var str = randomWord(true, 4, 16);
+    str = str.toLowerCase();
     return str+'@'+emails[tmp];
 }
 
